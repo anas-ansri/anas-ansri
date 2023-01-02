@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anas Ansari</h1>
-<h3 align="center">A passionate cross platform application developer</h3>
+<h1 align="left">Hi , I'm Anas Ansari</h1>
+<h3 align="left">A passionate cross platform application developer</h3>
 
 - 💬 Ask me about **Flutter and Firebase**
 
