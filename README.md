@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World👋, I'm Anas Ansari</h1>
+<h1 align="center">Hi👋, I'm Anas Ansari</h1>
 <img align="right" src="https://media.giphy.com/media/JrpfevOVogixZYWp9O/source.gif" width="400px" alt="preview"/>
 
 <div>
