@@ -27,7 +27,7 @@
 <h3 align="left"> 📈 Github Stats:</h3>
 <a href="http://www.github.com/anas-ansri"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anas-ansri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="anas-ansri's GitHub stats" /></a>
 <a href="http://www.github.com/anas-ansri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-ansri&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/anas-ansri"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-ansri&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0f172a" /></a>
+<!-- <a href="http://www.github.com/anas-ansri"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-ansri&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0f172a" /></a> -->
 
 <h3 align="left"> 🤳🏼 Connect: </h3>
   <a href="https://twitter.com/anas_ansr1"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/60001051/207409625-9c513cf8-b3a9-4922-a946-d36dc2cb6cf4.png"/></a>
