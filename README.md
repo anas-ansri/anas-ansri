@@ -7,7 +7,7 @@
 
 - 🧑‍🎓 Computer Engineering Student at VIIT.
 
-- 💬 I'm into **Flutter, Google Cloud, and Quantum Computing**
+- 💬 I'm into **Flutter, Cloud Computing, and Quantum Computing**
 
 - 🌱 I’m currently learning **Qiskit, TensorFlow**
 
