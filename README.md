@@ -48,7 +48,7 @@
 
 <h3 align="left"> 📊 Language Usage:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-ansri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0f172a" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-ansri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0f172a&hide=jupyter%20notebook" />
 </p>
 
 <h3 align="left"> 📈 Github Stats:</h3>
